@@ -54,7 +54,7 @@ Trigger the DAG through the Airflow UI or using the Airflow CLI.
 
 The DAG is scheduled to run daily, starting from January 1, 2022, with no catch-up.
 
-## Technical Flow of the User Processing Pipeline
+## Pipeline Execution and Technical Flow
 
 The User Processing pipeline is orchestrated through an Apache Airflow DAG, comprising multiple tasks to seamlessly handle the extraction, transformation, and loading of user data. The technical flow of the pipeline can be broken down into the following key steps:
 
