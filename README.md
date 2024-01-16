@@ -22,6 +22,9 @@ process_user: Python task that processes the user data received from the API. It
 
 store_user: Uses a PostgreSQL hook to copy the processed user data from the CSV file into the "users" table in the PostgreSQL database.
 
+<img width="431" alt="image" src="https://github.com/vidushio/User_Processing-Data_Pipeline/assets/140071981/c2e9eed9-1975-44b3-9695-4b81a9f472f6">
+
+
 ## Getting Started
 
 #### Prerequisites
